@@ -1,0 +1,2 @@
+rootProject.name = "CursorLoader"
+include ':app'
